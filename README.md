@@ -1,15 +1,7 @@
-## Hi there 👋
-My name is Aryan Thomare and I'm a third year Computer Engineering student at the University of Michigan. 
-I've been making things since I was a kid, so I figured I should make a career out of it.
-
-I am born in raised in Toronto, Canada and I am currently living in Ann Arbor, Michigan.
-
-
-
-
 👋 Hi, I'm Aryan
 I'm a third year Computer Engineering student at the University of Michigan. 
 I've been making things since I was a kid, so I figured I should make a career out of it.
+I am born in raised in Toronto, Canada and I am currently living in Ann Arbor, Michigan.
 
 🧩 Areas of Expertise
 Machine Learning & Data Engineer
