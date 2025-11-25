@@ -1,48 +1,55 @@
-👋 Hi, I'm Aryan
-I'm a third year Computer Engineering student at the University of Michigan. 
-I've been making things since I was a kid, so I figured I should make a career out of it.
-I am born in raised in Toronto, Canada and I am currently living in Ann Arbor, Michigan.
+### 👋 Hi, I'm Aryan Thomare
 
-🧩 Areas of Expertise:
-Machine Learning & Data Engineer
-Neural network design
-Regression and predictive modeling
-PyTorch pipelines, training utilities, data preprocessing
-Visualization tools for experiment tracking
-Embedded Systems & Hardware
-Development in C/C++
-Hardware/software interfacing and debugging
-Software Engineering
-Python tooling and automation
-Dockerized development environments
-Git/GitHub workflow, testing, and build optimization
-Linux-based development and deployment
+I am a Computer Engineering student at the University of Michigan specializing in **machine learning**, **embedded systems**, and **data engineering**. My work spans quantitative ML research, high-performance Python development, and hardware–software integration.
 
-🛠️ Technical Stack:
-Languages: Python, C, C++, Bash, MATLAB
-Frameworks & Tools: PyTorch, Tensorflow, STM32CubeIDE, Docker
-Platforms: Linux, Raspberry Pi Pico, STM32 Nucleo boards
+---
 
-📌 Current Work:
-Predictive Machine Learning Modeling for Derivative Path Inc.
-Previously Data and AI at ATB
-CoFounder of Sequova Consulting
-Previously Software Engineering and Automation at IMCO
+## 🔧 Core Focus Areas
+- **Machine Learning & AI**  
+  Neural networks, regression models, classification systems, quantitative modeling, and applied research.
 
-🤝 Collaboration:
-I’m open to opportunities
-Feel free to reach out on Linkedin or Email: athomare@umich.edu
-<!--
-**aryanthomare/aryanthomare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Embedded & Hardware Systems**  
+  STM32 development, PCB design, microcontrollers, FPGA experience, sensor systems, and real-time signal processing.
 
-Here are some ideas to get you started:
+- **Software & Data Engineering**  
+  Python automation, data pipelines, cloud integration, QA tooling, Excel/Python interoperability, and workflow optimization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 Experience
+
+**Machine Learning Intern — Derivative Path**  
+- Built neural network architectures to model credit risk and approximate xVA metrics.  
+- Integrated concepts from Hull-White and Black-Scholes for synthetic derivatives data generation.  
+- Translated quantitative research papers into practical fintech applications.
+
+**Data & AI Intern — ATB Financial**  
+- Developed Python automation to migrate 2TB+ of legacy customer data into Google Cloud Storage.  
+- Created QA and anomaly-detection scripts embedded in Google Sheets, replacing 80% of manual validation.  
+
+**Cofounder & Lead Developer — Sequova Consulting**  
+- Built ML models to price exports using historical pricing, competitor data, and news analysis.  
+- Delivered a regression system achieving 87% accuracy while advising clients on ML-driven optimization.
+
+**Software Engineering Intern — IMCO**  
+- Automated financial workflows via Python applications, saving 100+ hours per month.  
+- Built an MLP classification model to detect abnormalities in investment portfolio returns.  
+- Led Python training sessions for 20+ coworkers.
+
+---
+
+## 🛠️ Technical Skills
+**Languages:** Python, PyTorch, C/C++, SQL, VBA, JS, Matlab, Verilog, ARMv8 Assembly  
+**Hardware:** Embedded Systems, PCB Design, FPGA, STM32, Arduino, CAD, 3D Printing  
+**Tools:** Excel automation, data visualization, Pygame, Altium Designer, Google Cloud
+
+---
+
+## Take a Look at my Projects 📚
+
+---
+
+## 🤝 Interests
+Machine learning engineering • Embedded systems • Quantitative modeling • Automation • Hardware–software integration
+
+Feel free to explore my work or reach out for collaborations.
