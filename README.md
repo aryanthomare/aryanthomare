@@ -4,7 +4,7 @@ I am a Computer Engineering student at the University of Michigan specializing i
 
 ---
 
-## 🔧 Core Focus Areas
+## Core Focus Areas
 - **Machine Learning & AI**  
   Neural networks, regression models, classification systems, quantitative modeling, and applied research.
 
@@ -16,7 +16,7 @@ I am a Computer Engineering student at the University of Michigan specializing i
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Machine Learning Intern — Derivative Path**  
 - Built neural network architectures to model credit risk and approximate xVA metrics.  
@@ -38,7 +38,7 @@ I am a Computer Engineering student at the University of Michigan specializing i
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 **Languages:** Python, PyTorch, C/C++, SQL, VBA, JS, Matlab, Verilog, ARMv8 Assembly  
 **Hardware:** Embedded Systems, PCB Design, FPGA, STM32, Arduino, CAD, 3D Printing  
 **Tools:** Excel automation, data visualization, Pygame, Altium Designer, Google Cloud
@@ -49,7 +49,7 @@ I am a Computer Engineering student at the University of Michigan specializing i
 
 ---
 
-## 🤝 Interests
+## Interests
 Machine learning engineering • Embedded systems • Quantitative modeling • Automation • Hardware–software integration
 
 Feel free to explore my work or reach out for collaborations.
